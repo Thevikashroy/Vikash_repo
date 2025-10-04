@@ -223,7 +223,7 @@ function App() {
                   <GraduationCap className="h-6 w-6 text-indigo-600 mr-3" />
                   <div>
                     <h3 className="text-xl font-bold text-white">Master of Computer Application, MCA</h3>
-                    <p className="text-gray-200">Tech University • 2023 - 2025</p>
+                    <p className="text-gray-200">Noida Institute of Engineering and Technology • 2023 - 2025</p>
                   </div>
                 </div>
                 <p className="text-gray-300">
